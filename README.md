@@ -67,6 +67,10 @@ Database: PostgreSQL / MongoDB
 Cloud: AWS / GCP for large-scale APK scanning
 
 ---
+Test APK Files
+
+To evaluate the performance of our Fake Banking APK Detection system, You can test the website with the following APK samples
+https://drive.google.com/drive/folders/1G_ayd34p6qWuRINUbNNOutUhg4KQ6WnT?usp=sharing
 
 
 ⚙ Installation & Usage
