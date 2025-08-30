@@ -56,7 +56,8 @@ https://drive.google.com/drive/folders/1aQ_IrtV1FBfcCavnsgPrGaMBe8hg5kmU?usp=sha
 
 ## ⚙️ Installation & Usage  
 
-1. **Clone the Repository**  git clone https://github.com/chinmaya-03/SurakshaCheck_final1.git
+1. **Clone the Repository**
+git clone https://github.com/chinmaya-03/SurakshaCheck_final1.git
   ```bash
 
 2. **Run the program**
